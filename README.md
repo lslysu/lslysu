@@ -19,20 +19,19 @@
 <tr>
 <td valign="middle" align="center">
 
-<img height="120" src="https://raw.githubusercontent.com/nikitha11925/nikitha11925/main/wave.gif" alt="waving pixel Nikitha" />
+
 
 </td>
 <td valign="middle">
 
 <pre>
-<h1>˚₊‧꒰ა Hello world ໒꒱‧₊˚</h9>
+<h1>˚₊‧꒰ა Hello world ໒꒱‧₊˚</h10>
 </pre>
 
 </td>
 </tr>
 </table>
 
-[![typing](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1200&color=FFB3DE&center=true&vCenter=true&width=460&height=30&lines=%E2%96%B8+system+online+%E2%80%94+welcome_;%E2%96%B8+%CB%96%E2%8A%B9%F0%96%A5%94+point%2C+click%2C+explore)](https://github.com/nikitha11925)
 
 </div>
 
